@@ -11,9 +11,9 @@
     "body-parser": "^1.17.2",
     "cors": "^2.8.1",
     "express": "^4.14.0",
-    "knex": "^0.19.5",
+    "knex": "^0.21.1",
     "node-fetch": "^2.6.0",
-    "pg": "^7.7.1",
+    "pg": "^8.0.3",
     "redis": "^2.8.0"
   },
   "devDependencies": {

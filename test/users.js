@@ -18,8 +18,8 @@ const redis = require("redis").createClient({
 });
 
 const TEST_USER = {
-  email: "john@doe.com",
-  firstname: "John"
+  email: "roland@doe.com",
+  firstname: "roland"
 };
 
 let createdUserId;

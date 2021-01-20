@@ -1,8 +1,8 @@
 module.exports = {
   db: {
     host: process.env.APP_DB_HOST || 'localhost',
-    user: process.env.APP_DB_USER || 'john',
-    password: process.env.APP_DB_PASSWORD || 'mysecretpassword',
+    user: process.env.APP_DB_USER || 'sdof',
+    password: process.env.APP_DB_PASSWORD || 'sdofmysecretpassword',
   },
   redis: {
     host: process.env.APP_REDIS_HOST || 'localhost',
